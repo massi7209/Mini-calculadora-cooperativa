@@ -5,8 +5,7 @@ def resta(a, b):
     return a - b
 
 def multiplicar(a, b):
-    # TODO: implementar
-    pass
+   return a*b
 
 if __name__ == "__main__":
     print("Mini Calculadora")
