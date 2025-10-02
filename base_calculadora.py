@@ -4,8 +4,7 @@ def suma(a, b):
 
 
 def resta(a, b):
-    # TODO: implementar
-    pass
+    return a - b
 
 def multiplicar(a, b):
     # TODO: implementar
