@@ -1,6 +1,10 @@
 def suma(a, b):
+<<<<<<< HEAD
      # TODO: implementar
     pass
+=======
+    return a+b
+>>>>>>> feature/suma
 
 
 def resta(a, b):
